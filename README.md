@@ -2,6 +2,6 @@
 
 My dotfiles for my systems.
 
-## macOS
+## ZSH
 
-All located in the `macos/` directory
+Installs `zsh` and Homebrew

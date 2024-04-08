@@ -29,4 +29,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run setup
-        run: ./setup.sh
+        run: |
+          chmod +x ./setup.sh
+          ./setup.sh

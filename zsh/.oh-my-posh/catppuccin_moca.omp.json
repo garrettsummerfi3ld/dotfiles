@@ -18,6 +18,7 @@
     "nord14": "#A3BE8C",
     "nord15": "#B48EAD"
   },
+  "console_title_template": "{{.Folder}}{{if .Root}} :: root{{end}} :: {{.HostName}}",
   "blocks": [
     {
       "alignment": "left",

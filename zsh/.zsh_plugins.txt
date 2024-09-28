@@ -41,7 +41,7 @@ zsh-users/zsh-history-substring-search
 
 # Themes
 # geometry-zsh/geometry
-moarram/headline
+# moarram/headline
 
 
 # prompts:
